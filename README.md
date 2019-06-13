@@ -1,5 +1,5 @@
 # Reporting-Code
-Gathers data from influxdb, analyze the data and produce meaningful graphs
+This project deals with the gathered data from influxdb, analyze the data and produce meaningful graphs
 
 Steps to generate reports:
 
